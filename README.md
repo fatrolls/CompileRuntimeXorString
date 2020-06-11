@@ -17,3 +17,11 @@ Example code
 	wchar_t buffertest2[100];
 	swprintf(buffertest2, XorStrW(L"hahaha blah! %d"), 54321);
 	printf(XorStr("value = %ls\n"), buffertest2);
+
+
+Outputs
+
+	test = blah
+	test = blah
+	value = hidden blah! 1234
+	value = hahaha blah! 54321
