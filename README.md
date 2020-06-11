@@ -28,6 +28,5 @@ Outputs
 
 Disassembly
 
-![disasm1](https://github.com/fatrolls/CompileRuntimeXorString/screenshots/1.png)<br>
-![disasm2](https://github.com/fatrolls/CompileRuntimeXorString/screenshots/2.png)<br>
-![disasm3](https://github.com/fatrolls/CompileRuntimeXorString/screenshots/3.png)<br>
+![disasm1]https://github.com/fatrolls/CompileRuntimeXorString/blob/master/screenshots/1.png)<br>
+![disasm2](https://github.com/fatrolls/CompileRuntimeXorString/blob/master/screenshots/2.png)<br>
